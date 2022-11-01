@@ -1,6 +1,4 @@
-# WhatsApp Platform Quick Start by Widya Wicara
-
-> **Maintainer**: hanif@widyawicara.com, wahyu@widyawicara.com
+# WhatsApp Platform Quick Start
 
 Welcome to your first step toward building awesome WhatsApp apps!
 
